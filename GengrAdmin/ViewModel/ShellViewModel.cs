@@ -9,5 +9,9 @@ namespace GengrAdmin.ViewModel
 {
     public class ShellViewModel:BaseViewModel
     {
+        public ShellViewModel()
+        {
+
+        }
     }
 }

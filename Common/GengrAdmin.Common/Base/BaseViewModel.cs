@@ -12,7 +12,7 @@ namespace GengrAdmin.Common.Base
     {
         #region INPC
         public event PropertyChangedEventHandler PropertyChanged;
-        public void OnPropertyChanged(string propertyName)
+        public void RaisePropertyChanged(string propertyName)
         {
             if (PropertyChanged != null)
             {
