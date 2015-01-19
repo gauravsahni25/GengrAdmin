@@ -1,0 +1,13 @@
+D:\Development\GengrAdmin\Common\GengrAdmin.Common\bin\Debug\GengrAdmin.Common.dll
+D:\Development\GengrAdmin\Common\GengrAdmin.Common\bin\Debug\GengrAdmin.Common.pdb
+D:\Development\GengrAdmin\Common\GengrAdmin.Common\obj\Debug\GengrAdmin.Common.csprojResolveAssemblyReference.cache
+D:\Development\GengrAdmin\Common\GengrAdmin.Common\obj\Debug\GengrAdmin.Common.Properties.Resources.resources
+D:\Development\GengrAdmin\Common\GengrAdmin.Common\obj\Debug\GengrAdmin.Common.csproj.GenerateResource.Cache
+D:\Development\GengrAdmin\Common\GengrAdmin.Common\obj\Debug\GengrAdmin.Common.dll
+D:\Development\GengrAdmin\Common\GengrAdmin.Common\obj\Debug\GengrAdmin.Common.pdb
+D:\Development\GengrAdmin\Common\GengrAdmin.Common\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Development\GengrAdmin\Common\GengrAdmin.Common\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Development\GengrAdmin\Common\GengrAdmin.Common\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Development\GengrAdmin\Common\GengrAdmin.Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Development\GengrAdmin\Common\GengrAdmin.Common\bin\Debug\System.Windows.Interactivity.dll
+D:\Development\GengrAdmin\Common\GengrAdmin.Common\bin\Debug\Microsoft.Practices.Unity.dll
